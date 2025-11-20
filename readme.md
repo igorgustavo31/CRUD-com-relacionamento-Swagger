@@ -1,4 +1,3 @@
-````markdown
 # 🚀 API de CRUD de Documentos com Relacionamento e Swagger
 
 Este projeto é uma **API REST completa** desenvolvida em **Spring Boot**, implementando operações de CRUD para **Documentos e Categorias**, incluindo relacionamento entre as entidades e documentação automática com **Swagger (Springdoc)**.
